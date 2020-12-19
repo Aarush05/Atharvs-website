@@ -1,0 +1,47 @@
+body{
+    background-color: aqua;
+}
+.image1{
+    margin-left: 750px;
+    margin-top: -140px;
+    border-radius: 75px;
+    width: 150px;
+}
+h1{
+    text-align: center;
+    color: red;
+    margin-top: -10px; 
+    font-size: 50px;
+    margin-left: -300px;
+}
+.no1{
+    list-style: none;
+    font-family: sans-serif;
+    position : absolute;
+    cursor: pointer;
+    z-index: 10;
+    right: 20px;
+}
+.links{
+    float: left;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    
+}
+.links:hover{
+    background-color: dodgerblue;
+}
+p{
+    font-size: 20px;
+}
+h2{
+    font-size: 40px;
+}
+.image2{
+    border-radius: 50px;
+    width: 500px;
+    margin-left: 700px;
+    margin-top: -300px;
+}
